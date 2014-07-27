@@ -3,7 +3,7 @@ var config = {};
 config.development = {
 
   usps: {
-    username: 'FILL_ME_IN',
+    userID: 'FILL_ME_IN',
     password: 'FILL_ME_IN',
   }
 
