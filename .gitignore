@@ -5,6 +5,8 @@ node_modules/*
 tmp/*
 builtAssets/*
 
+# config files
+config.js
 
 
 # =========================== DO NOT touch below v1.0.0 ===============================
