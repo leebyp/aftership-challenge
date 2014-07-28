@@ -24,7 +24,8 @@
     "mocha": "latest",
     "underscore": "latest",
     "should": "latest",
-    "xml2js": "~0.4.4"
+    "xml2js": "~0.4.4",
+    "http-sync": "0.0.4"
   },
   "devDependencies": {
     "mocha": "latest",
