@@ -26,7 +26,8 @@
     "should": "latest",
     "xml2js": "~0.4.4",
     "http-sync": "0.0.4",
-    "moment": "~2.7.0"
+    "moment": "~2.7.0",
+    "cheerio": "~0.17.0"
   },
   "devDependencies": {
     "mocha": "latest",
