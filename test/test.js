@@ -90,6 +90,8 @@ describe('Test: .is', function() {
 		};
 
 		it('Expect return true', function() {
+			// altered default timeout, due to slow connection
+			this.timeout(10000);
 			var result = Courier.hkpost('RC933607107HK');
 			result.should.eql(hkpost);
 		});
